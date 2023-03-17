@@ -2,7 +2,7 @@
 FROM python:3.9-alpine3.17
 
 #Docker MAINTAINER command is specifically used to set the author details
-LABEL maintainer="example.com"
+LABEL maintainer="Anutam"
 
 #The line "ENV PYTHONUNBUFFERED 1" in a Dockerfile sets an environment variable named "PYTHONUNBUFFERED" #
 #to the value of "1" in the Docker container that will be built from the Dockerfile.
